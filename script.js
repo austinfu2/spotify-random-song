@@ -18,7 +18,7 @@ const authEndpoint = "https://accounts.spotify.com/authorize";
 
 // Replace with your app's client ID, redirect URI and desired scopes
 const clientId = "86a19f59308f4529908699eecb6c61b7";
-const redirectUri = "https://spotify-random-song.glitch.me";
+const redirectUri = "http://www.spotify-random-song.glitch.me";
 const scopes = [
   "streaming",
   "user-modify-playback-state",
